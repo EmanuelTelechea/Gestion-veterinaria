@@ -1,0 +1,44 @@
+D:\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+D:\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+D:\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinaria.resources
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmCliente.resources
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmConsulta.resources
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmMascota.resources
+D:\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinario.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinaria.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmCliente.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmConsulta.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmMascota.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinario.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\programación\CTC\programacion 2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmAtendidos.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmAtendidos.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinaria.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmCliente.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmConsulta.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmMascota.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Presentacion.frmVeterinario.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\UsuarioCTC\Desktop\prog.2\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
